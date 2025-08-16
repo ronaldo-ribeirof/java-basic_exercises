@@ -1,4 +1,4 @@
-package ronaldo.exercises.ex02;
+package ronaldo.basicExercises.ex02;
 
 /*
 Escreva um código que receba o tamanho do lado de um quadrado,

@@ -1,4 +1,4 @@
-package ronaldo.exercises.ex03;
+package ronaldo.basicExercises.ex03;
 
 /*
 Escreva um código que receba a base e a altura de um retângulo,

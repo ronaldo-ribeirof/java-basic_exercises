@@ -1,4 +1,4 @@
-package ronaldo.exercises.ex01;
+package ronaldo.basicExercises.ex01;
 
 /*
 Escreva um código que receba o nome e o ano de nascimento de alguém

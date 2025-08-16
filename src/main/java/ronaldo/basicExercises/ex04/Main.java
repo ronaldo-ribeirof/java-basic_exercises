@@ -1,4 +1,4 @@
-package ronaldo.exercises.ex04;
+package ronaldo.basicExercises.ex04;
 
 /*
 Escreva um programa que leia o nome e a idade de duas pessoas
