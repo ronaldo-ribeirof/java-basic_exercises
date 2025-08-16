@@ -1,3 +1,5 @@
+package ronaldo.exercises.ex03;
+
 /*
 Escreva um código que receba a base e a altura de um retângulo,
 calcule sua área e exiba na tela.
@@ -5,7 +7,7 @@ calcule sua área e exiba na tela.
 
 import java.util.Scanner;
 
-public class Exercicio3 {
+public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

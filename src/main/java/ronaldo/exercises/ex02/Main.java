@@ -1,10 +1,12 @@
+package ronaldo.exercises.ex02;
+
 /*
 Escreva um código que receba o tamanho do lado de um quadrado,
 calcule sua área, e exiba na tela.
  */
 import java.util.Scanner;
 
-public class Exercicio2 {
+public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

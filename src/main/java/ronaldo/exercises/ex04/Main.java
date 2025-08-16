@@ -1,3 +1,5 @@
+package ronaldo.exercises.ex04;
+
 /*
 Escreva um programa que leia o nome e a idade de duas pessoas
 e mostre na tela a diferença de idade entre elas.
@@ -5,7 +7,7 @@ e mostre na tela a diferença de idade entre elas.
 
 import java.util.Scanner;
 
-public class Exercicio4 {
+public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
